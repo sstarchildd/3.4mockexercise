@@ -1,0 +1,17 @@
+a {
+background-color: blueviolet;
+color: aliceblue;
+transition: 0.5s ease-in-out;
+text-decoration: none;
+border-style: double;
+border-color: black;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+display: block;
+font-size: xx-large;
+width: 8.5%;
+}
+
+a:hover {
+    color: blueviolet;
+    background-color: aliceblue;
+}
